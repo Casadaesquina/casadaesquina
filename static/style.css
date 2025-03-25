@@ -75,7 +75,7 @@ footer .container {
 .btn-reserva {
     background-color: #28a745; /* Cor de fundo padrão */
     color: white; /* Cor do texto */
-    font-size: 1.2rem; /* Tamanho da fonte */
+    font-size: 1rem; /* Tamanho da fonte */
     padding: 10px 20px; /* Espaçamento interno */
     border-radius: 30px; /* Bordas arredondadas */
     border: none; /* Remove borda padrão */
@@ -90,7 +90,7 @@ footer .container {
 .btn-reserva {
     background-color: #28a745; 
     color: white; 
-    font-size: 1.2rem; 
+    font-size: 1rem; 
     padding: 10px 20px; 
     border-radius: 30px;
     position: relative;
@@ -729,7 +729,7 @@ footer {
     }
 
     .btn-reserva {
-        font-size: 1.4rem;
+        font-size: 1.2rem;
     }
 }
 
@@ -739,7 +739,7 @@ footer {
     }
 
     .btn-reserva {
-        font-size: 1.5rem;
+        font-size: 1.3rem;
     }
 }
 
