@@ -512,11 +512,14 @@ footer {
 @media (max-width: 465px) {
     .btn-reserva {
         font-size: 0.7rem;
-    }
+    } 
 }
 @media (max-width: 520px) {
     .navbar-collapse {
         display: none;
+    }
+    .navbar-toggler {
+       display: none;
     }
 }
 @media (max-width: 576px) {
