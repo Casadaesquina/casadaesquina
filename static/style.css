@@ -508,7 +508,7 @@ footer {
         font-size: 0.8rem;
     }
 }
-@media (max-width: 470px) {
+@media (max-width: 520px) {
     .navbar-collapse {
         display: none;
     }
