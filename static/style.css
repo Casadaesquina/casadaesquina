@@ -510,8 +510,8 @@ footer {
 } 
 
 @media (max-width: 465px) {
-    .btn-reserva {
-        font-size: 0.7rem;
+    .btnwhatsapp1 {
+        display: none;
     } 
 }
 @media (max-width: 520px) {
